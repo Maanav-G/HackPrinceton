@@ -1,2 +1,1 @@
-# HackPrinceton
-CarMan
+# HackPrincetonProject
